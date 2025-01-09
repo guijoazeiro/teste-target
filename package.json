@@ -1,0 +1,13 @@
+{
+  "name": "teste-target",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "2-fibonacci.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
